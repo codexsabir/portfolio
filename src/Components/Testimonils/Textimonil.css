@@ -1,0 +1,75 @@
+.tmain{
+padding: 0 3rem 0 3rem;
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 7rem;
+flex-direction: column;
+gap: 2rem;
+position: relative;
+}
+.theading{
+align-self: start;
+}
+.theading>*{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.theading span:nth-of-type(2){
+    color: var(--orange);
+}
+.tblur{
+    top: 16rem;
+    left: 38rem;
+}
+.tblur2{
+    top: 9rem;
+    left: 0rem;
+}
+.test{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+padding: 2rem;
+width: 30rem;
+height: 12rem;
+background: rgba(255, 255, 255, 0.26);
+border: 7px solid var(--blueCard);
+box-shadow: var(--boxShadow);
+border-radius: 20px;
+}
+.test>img{
+    width: 6rem;
+    height: 6rem;
+    border-radius: 100%;
+}
+.test>span{
+    color: var(--gray);
+}
+.tmain .swiper{
+width: 100%;
+height: 70%;
+}
+.tmain .swiper-slide{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tmain .swiper-pagination-bullet-active{
+    background-color: var(--orange);
+}
+@media screen and (max-width: 480px) {
+    .tmain{
+        padding: 0;
+    }
+.test>img{
+    width: 60px;
+    height: 60px;
+}
+
+}
+
+
+

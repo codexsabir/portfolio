@@ -1,0 +1,20 @@
+.floatingimg{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    box-shadow: var(--boxShadow);
+   border-radius: 17px;
+   text-align: center;
+   padding: 0px 28px 0px 0px;
+   height: 4.5rem;
+}
+.floatingimg>img{
+    transform: scale(0.4);
+}
+.floatingimg span{
+    font-family: sans-serif;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

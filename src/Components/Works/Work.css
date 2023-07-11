@@ -1,0 +1,102 @@
+.wmain{
+    padding: 0 3rem 0 3rem;
+    display: flex;
+    height: 80vh;
+    margin-top: 4rem;
+}
+
+/* csss for left side of web */
+.wrchi{
+position: relative;
+}
+.wcircle{
+position: relative;
+left: 9rem;
+width: 18rem;
+height: 18rem;
+border-radius: 100%;
+box-shadow: var(--smboxShadow);
+top: 2rem;
+background-color: white;
+}
+.wcircle>*{
+    position: absolute;
+}
+.wcircle>:nth-child(1){
+top: -3rem;
+left:6rem;
+}
+.wcircle>:nth-child(2){
+    top: 5rem;
+    left:-3rem; 
+}
+.wcircle>:nth-child(3){
+    top: 5rem;
+left:6rem;
+}
+.wcircle>:nth-child(4){
+    top: 15rem;
+left:5rem;
+}
+.wcircle>:nth-child(5){
+    top: 6rem;
+left:13rem;
+}
+.csircle{
+width: 6rem;
+height: 6rem;
+position: absolute;
+border-radius: 100%;
+border: 5px solid #ebebeb;
+display: flex;
+align-items: center;
+justify-content: center;
+background: none;
+box-shadow: var(--smboxShadow);
+background: white;
+
+}
+.csircle> img{
+transform: scale(0.6);
+}
+/* csss for back ground circle */
+.bagcirc{
+width:13rem;
+height:13rem ;
+border-radius: 100%;
+position: absolute;
+z-index: -1;
+
+}
+.bluecir{
+background-color: #194988;
+left: 12rem;
+    top: -2rem;
+}
+.yellowcir{
+    background-color: #F5c32C;
+    left: 12rem;
+    top: 8rem;
+}
+
+@media screen and (max-width: 480px) {
+.wmain{
+    flex-direction: column;
+    height: 55rem;
+    padding: 0;
+    gap: 5rem;
+}
+.wrchi{
+    display: flex;
+    justify-content: flex-start;
+    align-items: start;
+    transform: scale(0.7);
+}
+.wcircle{
+    position: static;
+}
+.bagcirc{
+    left: 8rem !important;
+}
+}
+
