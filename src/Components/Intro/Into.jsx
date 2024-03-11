@@ -5,7 +5,7 @@ import Linkedin from "../../img/linkedin.png"
 import Instagram from "../../img/instagram.png"
 import Vector1 from "../../img/Vector1.png"
 import Vector2 from "../../img/Vector2.png"
-import Boy from "../../img/boy.png"
+import Boy from "../../img/sabir.png"
 import Thumbup from "../../img/thumbup.png"
 import Crown from "../../img/crown.png"
 import Glassesemojie from "../../img/glassesimoji.png"
@@ -26,8 +26,8 @@ function Into() {
    <div className="ilchi">
    <div className="iname">
     <span style={darkMode? {'color': 'white'}:{'color':''}}>Hy! I Am</span>
-    <span>Muhammad Jasim</span>
-    <span>Frontend Developer with high Level of experience in web desigining and development producting the wuality work</span>
+    <span>Sabir Ud Din</span>
+    <span>FullStack Developer with high Level of experience in web desigining ,development ,Backend Development, Databases  producting the wuality work</span>
 
     <div className="button i-button">Haire me</div>
 

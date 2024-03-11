@@ -13,7 +13,7 @@ function Footer() {
       <img src={Wave} alt="" />
     
     <div className="fcontent">
-<span>JasimWazir@gmail.com</span>
+<span>codexsabir@gmail.com</span>
 <div className="ficons">
   <Insta color='white' size='3rem'/>
   <Facebook color='white' size='3rem'/>

@@ -9,7 +9,7 @@ function Navbar() {
 <div className="nmain">
 
 <div className="nlchi">
-<div className="name">Jasim 
+<div className="name">Code X 
 <span><Toogle/></span>
 </div>
 </div>
