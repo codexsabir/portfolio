@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/codexsabir/portfolio.git/static/css/main.09faceae.css",
+    "main.js": "/codexsabir/portfolio.git/static/js/main.68073f5d.js",
+    "static/js/787.5b4fb3a1.chunk.js": "/codexsabir/portfolio.git/static/js/787.5b4fb3a1.chunk.js",
+    "static/media/sabir.png": "/codexsabir/portfolio.git/static/media/sabir.ab0d244f7d810da3e67c.png",
+    "static/media/ecommerce.png": "/codexsabir/portfolio.git/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/sidebar.png": "/codexsabir/portfolio.git/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/musicapp.png": "/codexsabir/portfolio.git/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/glassesimoji.png": "/codexsabir/portfolio.git/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/hoc.png": "/codexsabir/portfolio.git/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/thumbup.png": "/codexsabir/portfolio.git/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/codexsabir/portfolio.git/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/codexsabir/portfolio.git/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/codexsabir/portfolio.git/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/codexsabir/portfolio.git/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/codexsabir/portfolio.git/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/codexsabir/portfolio.git/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/wind.lnk": "/codexsabir/portfolio.git/static/media/wind.e6e371c9162e9a466ce4.lnk",
+    "index.html": "/codexsabir/portfolio.git/index.html",
+    "main.09faceae.css.map": "/codexsabir/portfolio.git/static/css/main.09faceae.css.map",
+    "main.68073f5d.js.map": "/codexsabir/portfolio.git/static/js/main.68073f5d.js.map",
+    "787.5b4fb3a1.chunk.js.map": "/codexsabir/portfolio.git/static/js/787.5b4fb3a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09faceae.css",
+    "static/js/main.68073f5d.js"
+  ]
+}
